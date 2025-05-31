@@ -5,6 +5,9 @@
     Build: ./gradlew clean build
     Deploy: ./gradlew bootRun
 
+# Swagger API definitions can be found here
+    /swagger-ui/index.html
+
     
     
     
